@@ -3,8 +3,6 @@ import java.util.Random;
 
 class Calculator {
 
-    broke
-
     Calculator(){
     }
 
