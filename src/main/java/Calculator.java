@@ -4,7 +4,7 @@ import java.util.Random;
 class Calculator {
 
     Calculator(){
-
+//
     }
 
     int add(int a , int b){
